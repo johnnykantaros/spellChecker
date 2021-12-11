@@ -1,8 +1,6 @@
 # spellChecker
 
 
-READ ME
-
 In this project you will find three java classes: Word.java, SpellSorter.java, and SpellChecker.java.
 
 
